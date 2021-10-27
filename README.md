@@ -1,4 +1,5 @@
-CRYPTO_ASSIGNMENT #2
+# CRYPTO_ASSIGNMENT #1
+
 # format-preserving-encryption
 
 Name: Ram Chandra Jangir
@@ -99,17 +100,21 @@ X is 0 0 0 1 8 5
 Tweak is  45 14 56 13 63
 
 Step 1:
+
         u is 3, v is 3
 
 Step 2:
+
          A is    0 0 0
 
          B is    1 8 5
 
 Step 3:
+
          b is    2
 
 Step 4:
+
          d is    8
 
 Step 5:
